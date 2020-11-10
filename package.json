@@ -2,7 +2,7 @@
   "name": "devops-toolbox-app",
   "version": "0.0.3",
   "description": "",
-  "main": "src/index.ts",
+  "main": "src/main.ts",
   "scripts": {
     "start": "electron .",
     "dev": "electron ./src/index.ts",
