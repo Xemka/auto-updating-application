@@ -24,7 +24,7 @@ jobs:
         with:
           # GitHub token, automatically provided to the action
           # (No need to define this secret in the repo settings)
-          github_token: b9b530b7ef94be6ba7b3acfa87893d500f122a16
+          github_token: ${{ secrets.github_token }}
 
           # macOS code signing certificate
           mac_certs: ${{ secrets.mac_certs }}
