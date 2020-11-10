@@ -1,6 +1,6 @@
 {
   "name": "devops-toolbox-app",
-  "version": "0.0.10",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xemka/auto-updating-app.git"
+    "url": "git+https://github.com/Xemka/auto-updating-application.git"
   },
   "author": "CodeX",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Xemka/auto-updating-app/issues"
+    "url": "https://github.com/Xemka/auto-updating-application/issues"
   },
-  "homepage": "https://github.com/Xemka/auto-updating-app#readme",
+  "homepage": "https://github.com/Xemka/auto-updating-application#readme",
   "dependencies": {
     "@types/node": "^14.14.6",
     "electron-is-dev": "^1.2.0",
